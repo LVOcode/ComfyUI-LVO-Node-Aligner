@@ -20,12 +20,6 @@ steps and does not need to be placed in a workflow.
 No additional Python packages are required. Neither ComfyUI-Pixaroma nor
 ComfyUI-NodeAligner needs to be installed.
 
-**Use only one copy of LVO Node Aligner.** If you already use the full
-ComfyUI-LVOcode package containing this toolbar, keep that version or disable
-its aligner extension before installing this standalone package. Loading both
-can register duplicate toolbar and pointer handlers. Do not disable the whole
-LVOcode package if your workflows depend on its other nodes.
-
 ## Quick start
 
 1. Select at least two nodes; the panel opens automatically.
