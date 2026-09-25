@@ -1,0 +1,10 @@
+{
+  "note": "SHA-256 of supplied local upstream files used for provenance; not claims of upstream commit IDs.",
+  "files": {
+    "ComfyUI-NodeAligner/LICENSE": "81cbae84a29ce7e770bf2bc7b178e50bda0ce8de6067aba661b0bc7b05b562f8",
+    "ComfyUI-NodeAligner/node_info.js": "8a8d1877384c943271b974c5cbb539e737c2c8a8d5f6ca3aa66f85295516e30b",
+    "ComfyUI-Pixaroma/LICENSE": "ccbe25d170346848bf55269f0e983af0ebdb586d89516c6ca4dcb61b872986ee",
+    "ComfyUI-Pixaroma/js/align/index.js": "dfa12fb54bbf2f814843fcae735f85921f3ef127a00f7940aec31ad1a9540ea2",
+    "ComfyUI-Pixaroma/js/shared/nodes2.mjs": "d8836d7439bd9112528300cbd01947ba780bd1b8c8863bb1cf294083dc633d1b"
+  }
+}

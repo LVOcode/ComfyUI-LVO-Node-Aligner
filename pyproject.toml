@@ -1,0 +1,8 @@
+[project]
+name = "comfyui-lvo-node-aligner"
+version = "1.0.0"
+description = "Node alignment, exact spacing, move and resize snapping for ComfyUI."
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [{name = "LVOcode"}]
+dependencies = []
