@@ -1,8 +1,16 @@
 [project]
-name = "comfyui-lvo-node-aligner"
+name = "lvo-node-aligner"
 version = "1.0.0"
 description = "Node alignment, exact spacing, move and resize snapping for ComfyUI."
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [{name = "LVOcode"}]
 dependencies = []
+
+[project.urls]
+Repository = "https://github.com/LVOcode/ComfyUI-LVO-Node-Aligner"
+"Bug Tracker" = "https://github.com/LVOcode/ComfyUI-LVO-Node-Aligner/issues"
+
+[tool.comfy]
+PublisherId = "lvocode"
+DisplayName = "LVO Node Aligner"
